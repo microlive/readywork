@@ -86,11 +86,11 @@ The final stage of our process might include a variety of   service options. Our
                             <div class="sidepanel widget_nav_menu">
                                 <div class="bg_title"><h4 class="sidebar_header">Quick Links</h4></div>
                                 <ul class="menu">
-                                    <li class="menu-item"><a href="#">About Us</a></li>
-                                    <li class="menu-item"><a href="#">Feedback Form</a></li>
-                                    <li class="menu-item"><a href="#">Gallery</a></li>
-                                    <li class="menu-item"><a href="#">Featured Works</a></li> 
-                                    <li class="menu-item"><a href="#">Contact Us</a></li>               
+                                    <li class="menu-item"><a href="about.php">Profile</a></li>
+                                    <li class="menu-item"><a href="services.php">Our Service</a></li>
+                                    <li class="menu-item"><a href="gallery1.php">Portfollio</a></li>
+                                    <li class="menu-item"><a href="clients.php">Our Client</a></li> 
+                                    <li class="menu-item"><a href="contact.php">Contact Us</a></li>               
                                 </ul>
                             </div>                      
 
