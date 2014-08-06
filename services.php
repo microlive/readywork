@@ -2,8 +2,6 @@
 <!--[if IE 7 ]><html class="ie ie7" lang="en"> <![endif]-->
 <!--[if IE 8 ]><html class="ie ie8" lang="en"> <![endif]-->
 <!--[if (gte IE 9)|!(IE)]><!--><html lang="en" class="ie ie9"> <!--<![endif]-->
-
-<!-- Mirrored from www.gt3themes.com/website-templates/interior/gallery.html by HTTrack Website Copier/3.x [XR&CO'2014], Tue, 15 Jul 2014 01:53:41 GMT -->
 <head>
 <meta content="text/html; charset=utf-8" http-equiv="content-type"/>
 <meta name="description" content=""/>
@@ -114,5 +112,5 @@ The final stage of our process might include a variety of   service options. Our
     <script type="text/javascript" src="js/theme.js"></script>
 </body>
 
-<!-- Mirrored from www.gt3themes.com/website-templates/interior/gallery.html by HTTrack Website Copier/3.x [XR&CO'2014], Tue, 15 Jul 2014 01:53:49 GMT -->
+
 </html>
